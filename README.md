@@ -5,7 +5,7 @@
 
 Crea un archivo nuevo, pega este código y guárdalo exactamente con el nombre docker-compose.yml. Este archivo es el que se encarga de crear y levantar el Moodle y su base de datos.
 
-![Uploading image.png…]()
+
 
 
 ```
