@@ -7,7 +7,8 @@ Crea un archivo nuevo, pega este código y guárdalo exactamente con el nombre d
 
 ![Uploading image.png…]()
 
-'''
+
+```
 version: '3.8'
 
 services:
@@ -38,9 +39,7 @@ services:
 volumes:
   mariadb_data:
   moodle_data:
-
-
-'''
+```
 
 
  1. Para ejecutar este contenedor en la Mac Pro del laboratorio, sigue estos comandos en la terminal:
