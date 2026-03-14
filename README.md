@@ -108,6 +108,10 @@ MYSQL_PASSWORD=moodle-dbpass
   git clone [https://github.com/Solomemo09/DespliegueDocker.git](https://github.com/Solomemo09/DespliegueDocker.git)
    cd DespliegueDocker
 
+![Texto alternativo, por si no carga la imagen](imgs/imagen5)
+
+   
+
 (Antes de levantar el Docker compose debemos modificar el archivo .env.txt con el siguiente comando:
 ```
 sudo mv .env.txt .env
