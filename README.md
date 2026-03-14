@@ -122,15 +122,15 @@ sudo mv .env.txt .env
 
    sudo docker compose up --build -d
 
-![Los archivos](imgs/Imagen4.png)
-![Los archivos](imgs/Imagen5.png)
+![Despliegue](imgs/Imagen4.png)
+![Despliegue2](imgs/Imagen5.png)
    
    
 
 4. Acceder a la plataforma:
    Abre el navegador web e ingresa a http://localhost:8080
 
-![Los archivos](imgs/Imagen6.png)
+![Moodle](imgs/Imagen6.png)
    
 
 6. Instrucciones básicas para crear un curso en Moodle
