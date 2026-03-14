@@ -109,7 +109,7 @@ MYSQL_PASSWORD=moodle-dbpass
    cd DespliegueDocker
 
 
-![Los archivos](imgs/Imagen3.png)
+![Los archivos](imgs/Imagen3.jpg)
 
 
    
