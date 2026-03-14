@@ -109,7 +109,7 @@ MYSQL_PASSWORD=moodle-dbpass
    cd DespliegueDocker
 
 
-![Los archivos](imgs/Imagen5.png)
+![Los archivos](imgs/Imagen6.png)
 
    
 
@@ -122,10 +122,18 @@ sudo mv .env.txt .env
 
    sudo docker compose up --build -d
 
-3. Acceder a la plataforma:
+![Los archivos](imgs/Imagen4.png)
+![Los archivos](imgs/Imagen5.png)
+   
+   
+
+4. Acceder a la plataforma:
    Abre el navegador web e ingresa a http://localhost:8080
 
-4. Instrucciones básicas para crear un curso en Moodle
+![Los archivos](imgs/Imagen6.png)
+   
+
+6. Instrucciones básicas para crear un curso en Moodle
 Una vez que el sistema esté corriendo y hayas iniciado sesión con las credenciales de administrador, sigue estos pasos:
 
 Ve al menú lateral y selecciona "Administración del sitio".
