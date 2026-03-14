@@ -109,7 +109,8 @@ MYSQL_PASSWORD=moodle-dbpass
    cd DespliegueDocker
 
 
-![Los archivos](imgs/Imagen6.png)
+![Los archivos](imgs/Imagen3.png)
+
 
    
 
@@ -121,6 +122,7 @@ sudo mv .env.txt .env
 2. Levantar el Moodle con Docker Compose:
 
    sudo docker compose up --build -d
+   
 
 ![Despliegue](imgs/Imagen4.png)
 ![Despliegue2](imgs/Imagen5.png)
